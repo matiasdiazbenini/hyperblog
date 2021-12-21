@@ -14,3 +14,5 @@ prueba del stash
 Hoy es martes y es de noche
 
 Mañana es miercoles y de dia
+
+Ayer fue lunes y de tarde
